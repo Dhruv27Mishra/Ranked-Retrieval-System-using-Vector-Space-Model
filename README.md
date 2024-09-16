@@ -19,3 +19,7 @@ VSM.py: The python file where the ranked retrieval using vector space model is b
 ## Test Cases
 
 For test cases I have taken random sentences from specific documents and verified by observing if I am getting the same document as the top ranked document in the result or not. The observed outputs have been documented in the form of Screenshots and saved in the Outputs folder.
+
+## Link for the github repo
+
+https://github.com/Dhruv27Mishra/Ranked-Retrieval-System-using-Vector-Space-Model
